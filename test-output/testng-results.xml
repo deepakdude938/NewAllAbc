@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="15" total="16" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="91093" started-at="2020-09-21T04:48:52Z" finished-at="2020-09-21T04:50:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="91093" started-at="2020-09-21T04:48:52Z" finished-at="2020-09-21T04:50:23Z">
+      <class name="com.ijmeet.functional_test.HomePageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.ijmeet.functional_test.HomePageTest@49c386c8]" name="openBrowser" is-config="true" duration-ms="90859" started-at="2020-09-21T04:48:52Z" finished-at="2020-09-21T04:50:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="initializePage()[pri:0, instance:com.ijmeet.functional_test.HomePageTest@49c386c8]" name="initializePage" is-config="true" duration-ms="37" started-at="2020-09-21T04:50:23Z" finished-at="2020-09-21T04:50:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method status="PASS" signature="verifyHomePage()[pri:0, instance:com.ijmeet.functional_test.HomePageTest@49c386c8]" name="verifyHomePage" duration-ms="38" started-at="2020-09-21T04:50:23Z" finished-at="2020-09-21T04:50:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.ijmeet.functional_test.HomePageTest@49c386c8]" name="closeBrowser" is-config="true" duration-ms="109" started-at="2020-09-21T04:50:23Z" finished-at="2020-09-21T04:50:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.ijmeet.functional_test.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
